@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=1 \onerror="alert()">
+<img src="https://avatars1.githubusercontent.com/u/13243797?s=96&v=4" \onerror="alert()">
 
 <!--
 **weizman/weizman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
