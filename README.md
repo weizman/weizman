@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="javascript:alert(1)">
+<a src="data:text/javascript,alert(1)">xxx</a>
 
 <!--
 **weizman/weizman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
