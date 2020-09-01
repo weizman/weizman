@@ -1,6 +1,6 @@
 # Web Security Researcher and Javascript Expert, [Gal Weizman](https://weizman.github.io/website/?resume)
 
-### [Personal Website](https://weizman.github.io/website/) 👋🏽
+### [Personal Website](https://weizman.github.io/website/) and [Resume](https://weizman.github.io/website/?resume) 👋🏽
 
 ### Vulnerabilities 😈
 
