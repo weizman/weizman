@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://example.com"></iframe>
+<img src=1 \onerror="alert()">
 
 <!--
 **weizman/weizman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
