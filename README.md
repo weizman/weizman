@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<a href="https://x.com">xxx</a>
+<a href="https://x.com">
+  <a>xxx</a>
+</a>
 
 <!--
 **weizman/weizman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
