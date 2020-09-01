@@ -1,20 +1,27 @@
-### Hi there 👋
+# Web Security Researcher and Javascript Expert, [Gal Weizman](https://weizman.github.io/website/?resume)
 
-<a href="https://x.com" ping="https://y.com">
-xxx
-</a>
+### [Personal Website](https://weizman.github.io/website/) 👋🏽
 
-<!--
-**weizman/weizman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Vulnerabilities 😈
 
-Here are some ideas to get you started:
+* WhatsApp Critical vulnerabilities [CVE-2020-18426](https://weizman.github.io/website/?WhatsApp-Vulnerability-Disclosure-Read-Permissions-From-The-File-System-(CVE-2019-18426))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Chromium Medium vulnerability [CVE-2020-6519](https://weizman.github.io/website/?csp-bypass-vul)
+
+### Advanced Anti Debugging Techniques 🚫
+
+* [SourceMappingURL](https://weizman.github.io/website/?javascript-anti-debugging-some-next-level-shit-part-1)
+
+### Live Talks 🎤
+
+* [Javascript Anti Debugging - Some Next Level Shit (Part 1)](https://www.youtube.com/watch?v=KYhgCjfdr-M)
+
+### More Writeup ✍🏽
+
+* [list every event that exists in the browser](https://weizman.github.io/website/?list-every-event-that-exists-in-the-browser)
+
+* [beforeunload and unload events](https://weizman.github.io/website/?beforeunload-and-unload-events)
+
+### Music 🎵
+
+* [13 Shekels - Despair](https://www.youtube.com/watch?v=IXuqv6_3PUU)
