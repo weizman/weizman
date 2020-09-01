@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://avatars1.githubusercontent.com/u/13243797?s=96&v=4">
+<img src="https://avatars1.githubusercontent.com/u/13243797?s=96&v=4" onload="alert(1)">
 
 <!--
 **weizman/weizman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
