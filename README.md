@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://x.com">
-  <a><"xxx</a>
+<a href="https://x.com" ping="https://y.com">
+xxx
 </a>
 
 <!--
