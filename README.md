@@ -4,7 +4,7 @@
 
 ### Vulnerabilities 😈
 
-* WhatsApp Critical vulnerabilities [CVE-2020-18426](https://weizman.github.io/website/?WhatsApp-Vulnerability-Disclosure-Read-Permissions-From-The-File-System-(CVE-2019-18426))
+* WhatsApp Critical vulnerabilities [CVE-2019-18426](https://weizman.github.io/website/?WhatsApp-Vulnerability-Disclosure-Read-Permissions-From-The-File-System-(CVE-2019-18426))
 
 * Chromium Medium vulnerability [CVE-2020-6519](https://weizman.github.io/website/?csp-bypass-vul)
 
