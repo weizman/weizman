@@ -12,6 +12,8 @@
 
 * [SourceMappingURL](https://weizman.github.io/website/?javascript-anti-debugging-some-next-level-shit-part-1)
 
+* [Chromium Devtools Scope Pane](https://weizman.github.io/website/?javascript-anti-debugging-some-next-level-shit-part-2) 
+
 ### Live Talks 🎤
 
 * [Javascript Anti Debugging - Some Next Level Shit (Part 1)](https://www.youtube.com/watch?v=KYhgCjfdr-M)
