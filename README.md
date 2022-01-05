@@ -16,6 +16,8 @@
 
 ### Live Talks 🎤
 
+* [OWASP 2020 - Pwning WhatsApp, The Dark Side Of Web based Messaging Apps](https://www.youtube.com/watch?v=YAHze5bKmek)
+
 * [Javascript Anti Debugging - Some Next Level Shit (Part 1)](https://www.youtube.com/watch?v=KYhgCjfdr-M)
 
 ### More Writeup ✍🏽
