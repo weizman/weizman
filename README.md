@@ -1,4 +1,4 @@
-# Web Security Researcher and Javascript Expert, [Gal Weizman](https://weizman.github.io/website/?resume)
+# Web Security Researcher and Browser Javascript Expert, [Gal Weizman](https://weizman.github.io/website/?resume)
 
 ### [Personal Website](https://weizman.github.io/website/) and [Resume](https://weizman.github.io/website/?resume) 👋🏽
 
@@ -10,21 +10,17 @@
 
 ### Advanced Anti Debugging Techniques 🚫
 
-* [SourceMappingURL](https://weizman.github.io/website/?javascript-anti-debugging-some-next-level-shit-part-1)
+* [Official Awesome Javascript Anti Debugging Repo](https://github.com/weizman/awesome-javascript-anti-debugging) (based on personal long term research):
 
-* [Chromium Devtools Scope Pane](https://weizman.github.io/website/?javascript-anti-debugging-some-next-level-shit-part-2) 
+  * [SourceMappingURL](https://weizman.github.io/website/?javascript-anti-debugging-some-next-level-shit-part-1)
+
+  * [Chromium Devtools Scope Pane](https://weizman.github.io/website/?javascript-anti-debugging-some-next-level-shit-part-2) 
 
 ### Live Talks 🎤
 
 * [OWASP 2020 - Pwning WhatsApp, The Dark Side Of Web based Messaging Apps](https://www.youtube.com/watch?v=YAHze5bKmek)
 
 * [Javascript Anti Debugging - Some Next Level Shit (Part 1)](https://www.youtube.com/watch?v=KYhgCjfdr-M)
-
-### More Writeup ✍🏽
-
-* [list every event that exists in the browser](https://weizman.github.io/website/?list-every-event-that-exists-in-the-browser)
-
-* [beforeunload and unload events](https://weizman.github.io/website/?beforeunload-and-unload-events)
 
 ### Music 🎵
 
