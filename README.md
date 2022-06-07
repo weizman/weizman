@@ -1,4 +1,6 @@
-# Web Security Researcher and Browser Javascript Expert, [Gal Weizman](https://weizman.github.io/website/?resume)
+|  [Gal Weizman](https://weizman.github.io/website/?resume) <br> Web Security Researcher <br> Browser Javascript Expert | ![](https://github-readme-stats.vercel.app/api?username=weizman&show_icons=true&theme=1&hide_border=true) |
+| ------------- | ------------- |
+
 
 ### [Personal Website](https://weizman.github.io/website/) and [Resume](https://weizman.github.io/website/?resume) 👋🏽
 
