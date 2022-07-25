@@ -1,4 +1,4 @@
-|  [Gal Weizman](https://weizman.github.io/website/?resume) <br> Web Security Researcher <br> Browser Javascript Expert | ![](https://github-readme-stats.vercel.app/api?username=weizman&show_icons=true&theme=1&hide_border=true) |
+|  [Gal Weizman](https://weizman.github.io/website/?resume) <br> Web Security Researcher <br> Browser Javascript Expert | ![](https://github-readme-stats.vercel.app/api?username=weizman&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&count_private=true&line_height=20&include_all_commits=true&hide=contribs&bg_color=00000000&text_color=777) |
 | ------------- | ------------- |
 
 
