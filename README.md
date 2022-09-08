@@ -1,8 +1,13 @@
-|  [Gal Weizman](https://weizman.github.io/website/?resume) <br> Web Security Researcher <br> Browser Javascript Expert | ![](https://github-readme-stats.vercel.app/api?username=weizman&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&count_private=true&line_height=20&include_all_commits=true&hide=contribs&bg_color=00000000&text_color=777) |
+|  [Gal Weizman](https://weizman.github.io/) <br> Web Security Researcher <br> Browser Javascript Expert | ![](https://github-readme-stats.vercel.app/api?username=weizman&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&count_private=true&line_height=20&include_all_commits=true&hide=contribs&bg_color=00000000&text_color=777) |
 | ------------- | ------------- |
 
+### Projects ⚙️
 
-### [Personal Website](https://weizman.github.io/website/) and [Resume](https://weizman.github.io/website/?resume) 👋🏽
+* Creator of [LavaMoat](https://github.com/lavamoat/) browser js security tools:
+
+  * [Snow ❄️](https://github.com/lavamoat/snow)
+  
+  * [Across ↔](https://github.com/lavamoat/across)
 
 ### Vulnerabilities 😈
 
